@@ -5,6 +5,11 @@
             "name": "Andriy",
             "surname": "Moner",
             "balance": 1500
+            {
+                "id": 070808,
+                "name":"Vlados",
+                "balance":2531
+            }
         }
     ]
 }
