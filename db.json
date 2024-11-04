@@ -5,6 +5,14 @@
             "name": "Andriy",
             "surname": "Moner",
             "balance": 1500
+        },
+        {
+            "id": 2,
+            "name": "Sus228",
+            "surname": "Amongus",
+            "balance": "Inf",
+            "IsImpostor": "True",
+            "Autor": "Vova"
         }
     ]
 }
