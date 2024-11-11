@@ -7,18 +7,9 @@
             "balance": 1500
         },
         {
-<<<<<<< HEAD
             "id": 0,
             "name":"Vlados",
             "balance":2531
-=======
-            "id": 2,
-            "name": "Sus228",
-            "surname": "Amongus",
-            "balance": "Inf",
-            "IsImpostor": "True",
-            "Autor": "Vova"
->>>>>>> 2fcf962ee3ef803817f960314a3b109025b7a85c
         }
     ]
 }
